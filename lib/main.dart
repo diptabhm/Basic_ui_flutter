@@ -80,7 +80,7 @@ class NinjaCard extends StatelessWidget {
                 ),
                 SizedBox(width: 10.0),
                 Text(
-                  'chun.li@thenetninja.co.uk',
+                  'ramenforlife@gmail.com',
                   style : TextStyle(
                     color: Colors.grey[400],
                     fontSize: 18.0,
